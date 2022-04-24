@@ -1,3 +1,4 @@
 # Springboot-CRUDoperations
-Demonstration of Spring Boot CRUD operations using a Employee database
-Technology/ Tools Used - Java, Spring boot, MySQL,PostMan
+Demonstration of simple Spring Boot CRUD operations (GET, PUT, DELETE, POST methods) using a Employee database and performing junit testing.
+
+Technology/ Tools used - Java, Spring boot, MySQL, PostMan, jUnit, IntelliJ
